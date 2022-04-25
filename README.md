@@ -1,5 +1,5 @@
 # Hangman-game
-my repostitory for the opens source 3 assignment for CPSC 362
+my repostitory for the opens source 3 assignment for CPSC 362 it is a python hangman game
 
 # Overview
 Everyone has heard of the game "hangman."  Right?  The player tries to guess a preselected word one letter at a time.  If a letter is guessed that is not in the word, a body part is added to the person. If enough letters are missed, then the whole body is drawn on the person and the player loses.  If the player guesses all the letters in the word before the body is fully drawn, they win.
