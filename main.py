@@ -15,6 +15,8 @@ from datetime import datetime
 class Hangman:
     
     def __init__(self,word, triesAllowed):
+        """ class constructor """
+        # can add more parameters or member variables if you need it for you logic 
         pass
 
     def Guess(self,):
