@@ -22,3 +22,16 @@ Some things to think about
 2. How do you want to display the partial word to the user?
 3. Are you keeping track of letters already used?  Don't penalize the player if they forget what they've already guessed.
 4. Feel free to add functions to the class, but make sure to implement each one that is there.
+
+# How to contribute
+1. comment on the isse you want and say you want to be assigned this issue
+2. refer to the docstring for the funciton to see what the function must do
+3. if you you have any questions contact me via a message or comment on the issueif more claification is needed
+4. refer to the example text for how im thinking of the game will look when running the differnt funtion.
+5. you can also look at the commented out code for how i structured the game for game logic
+6. to test your contribution you need to test you function in main,py and make sure it outputs what the docstring says it will output using test cases.
+
+# Pull request 
+1. you can submit your pull request via github,com
+2. via github desktop
+3. via git commands through terminal
